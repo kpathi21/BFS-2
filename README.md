@@ -1,4 +1,4 @@
-# BFS-2
+# bfs-2
 
 ## Problem 1
 
